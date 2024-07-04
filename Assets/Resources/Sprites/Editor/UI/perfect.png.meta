@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: cb1a54e6e81224542bfec48add39788d
+guid: e51a5a4ce779ea44b835bc6ad4a00495
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -67,10 +67,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 256
+    maxTextureSize: 128
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -105,13 +105,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: autoplay_0
+      name: perfect_0
       rect:
         serializedVersion: 2
-        x: 25
-        y: 48
-        width: 225
-        height: 186
+        x: 27
+        y: 228
+        width: 140
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -119,20 +119,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b0212821b3c4438438a3a43f83007abe
-      internalID: 857565507
+      spriteID: 9e5e4933f4e143e458f7767294658eab
+      internalID: 1085198882
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: autoplay_1
+      name: perfect_1
       rect:
         serializedVersion: 2
-        x: 291
-        y: 48
-        width: 225
-        height: 186
+        x: 186
+        y: 228
+        width: 140
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,20 +140,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5b823caaa21742248b2566065459d3c8
-      internalID: -2063815554
+      spriteID: e3ba52da9a352b6499c77b5fab2f11ec
+      internalID: -1731523032
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: autoplay_2
+      name: perfect_2
       rect:
         serializedVersion: 2
-        x: 551
-        y: 48
-        width: 225
-        height: 186
+        x: 334
+        y: 230
+        width: 141
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -161,20 +161,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f0326e19ed6441449b1d84ed37f10757
-      internalID: -361053005
+      spriteID: 9ddb54ac7261da342aa9815583af69df
+      internalID: 554775936
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: autoplay_3
+      name: perfect_3
       rect:
         serializedVersion: 2
-        x: 816
-        y: 48
-        width: 225
-        height: 186
+        x: 492
+        y: 235
+        width: 141
+        height: 180
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -182,8 +182,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fb496a006bdeae94bb8a501bc820fcc2
-      internalID: -1647732674
+      spriteID: add5175c2abacb24babbcc42edabc3bb
+      internalID: -1413667135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perfect_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 27
+        width: 138
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0866bb25679b74e9cca26b4f19e100
+      internalID: 187699239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perfect_5
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 33
+        width: 131
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88c589a10a4e6a47beb778a89e04cb9
+      internalID: 159728939
       vertices: []
       indices: 
       edges: []
@@ -199,10 +241,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      autoplay_0: 857565507
-      autoplay_1: -2063815554
-      autoplay_2: -361053005
-      autoplay_3: -1647732674
+      perfect_0: 1085198882
+      perfect_1: -1731523032
+      perfect_2: 554775936
+      perfect_3: -1413667135
+      perfect_4: 187699239
+      perfect_5: 159728939
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
